@@ -1,0 +1,68 @@
+northbound,northbound speed,southbound,southbound speed
+A1 (M) Interchange -> J48,69 mph ,A1 (M) Interchange, 70 mph
+Garforth / A1(M) Interchange -> J47,70 mph ,Garforth / A1(M) Interchange, 70 mph ->  Unconfirmed Roadworks
+Leeds -> J46,67 mph ,Leeds / Garforth, 69 mph
+Limited Access -> J45,70 mph ,Limited Access, 68 mph
+Leeds -> J43|44,70 mph ,Limited Access, 65 mph
+Manchester / Hull -> J42,70 mph ,Manchester / Hull, 64 mph
+Wakefield -> J41,67 mph ,Wakefield / Morley, 65 mph
+Dewsbury / Wakefield -> J40,67 mph ,Wakefield / Dewsbury, 67 mph
+Wakefield -> J39,70 mph ,Wakefield, 67 mph
+Huddersfield -> J38,70 mph ,Barnsley, 68 mph
+Barnsley -> J37,69 mph ,Barnsley, 68 mph
+Barnsley -> J36,70 mph ,Hoyland, 65 mph
+Chapeltown -> J35A,68 mph ,Limited Access, 69 mph
+Sheffield / Rotherham -> J35,65 mph ,Sheffield / Rotherham, 69 mph
+Sheffield / Rotherham -> J34,62 mph ,Sheffield / Rotherham, 63 mph
+Sheffield Airport / Rotherham -> J33,60 mph ,Rotherham, 65 mph
+Doncaster -> J32,66 mph ,Sheffield, 66 mph
+Sheffield -> J31,68 mph ,Worksop, 67 mph
+Sheffield -> J30,65 mph ,Worksop, 66 mph
+Chesterfield (E) / Bolsover -> J29A,68 mph ,Chesterfield (E) / Bolsover, 66 mph
+Chesterfield / Mansfield -> J29,60 mph  -> Incident ,Mansfield / Chesterfield, 70 mph
+Mansfield -> J28,66 mph ,Mansfield, 70 mph
+Mansfield -> J27,67 mph ,Nottingham / Langley Mill, 70 mph
+Nottingham -> J26,65 mph ,Nottingham, 67 mph
+Nottingham / Derby -> J25,53 mph ,Nottingham / Derby, 67 mph
+Derby -> J24A,67 mph ,East Mids Airport / Loughborough, 65 mph
+Derby -> J24,64 mph ,East Mids Airport / Loughborough, 63 mph ->  Unconfirmed Roadworks
+Nottingham / East Mids Airport -> J23A,67 mph ,Birmingham, 63 mph ->  Unconfirmed Roadworks
+Loughborough -> J23,68 mph ,Loughborough, 66 mph
+Coalville / Leicester -> J22,66 mph ,Leicester, 63 mph
+Leicester -> J21A,58 mph ,Limited Access, 54 mph ->  Unconfirmed Roadworks
+Leicester -> J21,66 mph  -> Unconfirmed Roadworks ,Leicester, 64 mph ->  Unconfirmed Roadworks
+Lutterworth / Rugby -> J20,70 mph ,Lutterworth / Rugby, 62 mph
+Birmingham -> J19,65 mph ,Birmingham, 64 mph
+Rugby -> J18,68 mph ,Rugby, 62 mph
+Coventry -> J17,66 mph ,Limited Access, 62 mph
+Northampton -> J16,57 mph ,Northampton, 56 mph
+Northampton -> J15A,58 mph ,Northampton," 57 mph ->  Unconfirmed Roadworks
+ Unconfirmed Roadworks"
+Northampton -> J15,"58 mph  -> Unconfirmed Roadworks 
+Unconfirmed Roadworks 
+Unconfirmed Roadworks ",Northampton," 58 mph ->  Roadworks
+ Unconfirmed Roadworks
+ Unconfirmed Roadworks
+ Roadworks
+ Unconfirmed Roadworks"
+Milton Keynes -> J14,"65 mph  -> Unconfirmed Roadworks 
+Unconfirmed Roadworks 
+Unconfirmed Roadworks ",Milton Keynes," 67 mph ->  Unconfirmed Roadworks
+ Unconfirmed Roadworks
+ Unconfirmed Roadworks
+ Unconfirmed Roadworks"
+Milton Keynes -> J13,"62 mph  -> Unconfirmed Roadworks 
+Unconfirmed Roadworks ",Bedford, 61 mph
+Flitwick -> J12,63 mph ,Flitwick, 61 mph
+Dunstable -> J11A,59 mph ,Dunstable, 41 mph
+Luton -> J11,58 mph ,Luton, 46 mph
+Luton Airport -> J10,58 mph ,Luton Airport, 65 mph
+Dunstable -> J9,45 mph ,Harpenden, 64 mph
+Hemel Hempstead -> J8,59 mph ,Hemel Hempstead, 60 mph
+Limited Access -> J7,58 mph ,Hemel Hempstead, 63 mph
+Limited Access -> J6A,64 mph ,Heathrow, 70 mph
+St Albans -> J6,59 mph ,St Albans, 70 mph
+Watford -> J5,70 mph  -> Unconfirmed Roadworks ,Watford, 69 mph
+Limited Access -> J4,70 mph ,Edgware, 68 mph
+Limited Access -> J2,69 mph ,Mill Hill, 58 mph
+Brent Cross -> J1,,Brent Cross,
